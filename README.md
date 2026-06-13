@@ -130,11 +130,19 @@ Bagi saya, belajar pemrograman bukan hanya tentang membuat aplikasi berjalan. Le
 ---
 
 ## Hubungi Saya
+## Hubungi Saya
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-adamjauharfirdaus-181717?style=for-the-badge\&logo=github)](https://github.com/adamjauharfirdaus)
 [![Email](https://img.shields.io/badge/Email-hardsfirdaus98%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:hardsfirdaus98@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/jauharfirdaus_adam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge\&logo=whatsapp\&logoColor=white)](https://wa.me/628551321945)
+
+</div>
+
+
 
 </div>
 
