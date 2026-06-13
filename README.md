@@ -130,7 +130,6 @@ Bagi saya, belajar pemrograman bukan hanya tentang membuat aplikasi berjalan. Le
 ---
 
 ## Hubungi Saya
-## Hubungi Saya
 
 <div align="center">
 
@@ -150,6 +149,6 @@ Bagi saya, belajar pemrograman bukan hanya tentang membuat aplikasi berjalan. Le
 
 <div align="center">
 
-### Terima kasih sudah berkunjung ke profil saya 🚀
+### Terima kasih sudah berkunjung ke profil saya 
 
 </div>
