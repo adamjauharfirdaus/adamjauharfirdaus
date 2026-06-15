@@ -2,7 +2,7 @@
 
 ![Adam Jauhar Firdaus](./image/github-header-banner.png)
 
-# Halo, saya Adam Jauhar Firdaus 👋
+# Halo, saya Adam Jauhar Firdaus
 
 ### Mahasiswa Teknik Informatika | Web Development Enthusiast | Learner
 
@@ -16,12 +16,12 @@ Saya tertarik membangun aplikasi web yang sederhana, rapi, mudah digunakan, dan 
 
 ## Tentang Saya
 
-* 🎓 Mahasiswa Teknik Informatika
-* 💻 Sedang belajar Full Stack Web Development
-* 🌱 Fokus pada PHP Native, Laravel, JavaScript, dan MySQL
-* 🧩 Tertarik pada pengembangan sistem informasi berbasis web
-* 🔧 Terbiasa menggunakan VS Code, Laragon, phpMyAdmin, Git, dan GitHub
-* 🚀 Sedang membangun beberapa project pembelajaran berbasis web
+* Mahasiswa Teknik Informatika
+* Sedang belajar Full Stack Web Development
+* Fokus pada PHP Native, Laravel, JavaScript, dan MySQL
+* Tertarik pada pengembangan sistem informasi berbasis web
+* Terbiasa menggunakan VS Code, Laragon, phpMyAdmin, Git, dan GitHub
+* Sedang membangun beberapa project pembelajaran berbasis web
 
 ---
 
@@ -51,18 +51,6 @@ Saya tertarik membangun aplikasi web yang sederhana, rapi, mudah digunakan, dan 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
 </div>
-
----
-
-## Fokus Belajar Saat Ini
-
-```text
-PHP Native       █████████░░  80%
-Laravel          ███████░░░░  65%
-JavaScript       ██████░░░░░  60%
-MySQL            ███████░░░░  70%
-Git & GitHub     ██████░░░░░  60%
-```
 
 ---
 
